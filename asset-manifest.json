@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/password-strength-checker/static/css/main.c74ee4a5.css",
-    "main.js": "/password-strength-checker/static/js/main.364772e5.js",
+    "main.js": "/password-strength-checker/static/js/main.7d2edc0b.js",
     "static/js/453.fad2363a.chunk.js": "/password-strength-checker/static/js/453.fad2363a.chunk.js",
     "static/media/brand.webp": "/password-strength-checker/static/media/brand.1d80e1875bdf9412a011.webp",
     "index.html": "/password-strength-checker/index.html",
     "main.c74ee4a5.css.map": "/password-strength-checker/static/css/main.c74ee4a5.css.map",
-    "main.364772e5.js.map": "/password-strength-checker/static/js/main.364772e5.js.map",
+    "main.7d2edc0b.js.map": "/password-strength-checker/static/js/main.7d2edc0b.js.map",
     "453.fad2363a.chunk.js.map": "/password-strength-checker/static/js/453.fad2363a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c74ee4a5.css",
-    "static/js/main.364772e5.js"
+    "static/js/main.7d2edc0b.js"
   ]
 }
